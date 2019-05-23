@@ -1,0 +1,39 @@
+{
+    "post": [
+        {
+            "header":"Wiosna",
+            "imgSrc":"wisnia.jpg",
+            "description":"Jedna z czterech podstawowych pór roku w przyrodzie, w strefie klimatu umiarkowanego. Charakteryzuje się umiarkowanymi temperaturami powietrza z rosnącą średnią dobową oraz umiarkowaną ilością opadu atmosferycznego."
+        },
+        {
+            "header":"Okres wiosny",
+            "imgSrc":"zonkil.jpg",
+            "description":"Wiosna astronomiczna rozpoczyna się w momencie równonocy wiosennej i trwa do momentu przesilenia letniego, co w przybliżeniu oznacza na półkuli północnej okres pomiędzy 21 marca a 22 czerwca (czasami daty te wypadają dzień wcześniej lub dzień później, a w roku przestępnym mogą być dodatkowo cofnięte o jeden dzień). Podczas wiosny astronomicznej dzienna pora dnia jest dłuższa od pory nocnej, a ponadto z każdą kolejną dobą dzień jest dłuższy, noc krótsza, aż do przesilenia letniego, od tego dnia dni stają się krótsze, a noce dłuższe. Temperatura powietrza wiosną rzadko spada poniżej 0 °C."
+        },
+        {
+            "header":"Data początku wiosny",
+            "imgSrc":"tulipan.jpg",
+            "description":"Pierwszy dzień wiosny obchodzony jest w dniu równonocy wiosennej, który najczęściej przypada w dniu 21 marca, dnia poprzedniego lub następnego, w zależności, gdzie jest obserwowany. W XX wieku wiosna w strefie czasowej Polski rozpoczynała się zwykle 21 marca, zaś w miarę przybliżania się końca stulecia coraz częściej 20 marca."
+        },
+        {
+            "header":"Wiosna w kulturze",
+            "imgSrc":"wielkanoc.jpg",
+            "description":"Wiosną obchodzone są uroczystości Wielkanocne. Jest to najważniejsze święto w religii chrześcijańskiej. Uroczystości Wielkanocne poprzedza Wielki Tydzień. Ostatnie trzy doby tego tygodnia: Wielki Czwartek (wieczór), Wielki Piątek, Wielka Sobota i Niedziela Zmartwychwstania znane są jako Triduum Paschalne (Triduum Paschale). Z obchodami świąt wielkanocnych związanych jest wiele zwyczajów ludowych."
+        },
+        {
+            "header":"Zwierzęta i wiosna",
+            "imgSrc":"zwierzeta.jpg",
+            "description":"Wiosną wszystkie organizmy zwiększają swoją aktywność po zimowym uśpieniu. Zwierzęta rozpoczynają rozmnażanie. W każdym środowisku, a więc i na łące, sieć pokarmowa jest bardziej skomplikowana niż zimą. Świat zwierząt przechodzi okres budzenia się do życia, a następnie rozpoczyna się pierwsza faza okresu rozmnażania, czyli dobieranie się w pary i zapłodnienie u zwierząt. Niektóre ptaki powracają z cieplejszych stref klimatycznych."
+        },
+        {
+            "header":"Rośliny i wiosna",
+            "imgSrc":"z1.jpg",
+            "description":"Gdy dni stają się coraz dłuższe, a odczuwalna temperatura powietrza wzrasta, rośliny budzą się, wypuszczają liście bądź zakwitają. Na drzewach pojawiają się liście, np. na Mazowszu najwcześniej około 24 marca, a najpóźniej w ostatniej dekadzie kwietnia."
+        },
+        {
+            "header":"21 marca - pierwszy dzień wiosny i dzień wagarowicza",
+            "imgSrc":"z2.jpg",
+            "description":"Dawniej czas nadejścia wiosny był to czas zasiewów i oczekiwania na plony. Ludzie wierzyli, że obrzęd topienia Marzanny może to przyśpieszyć, ma też symbolizować dostatek w nadchodzącym roku. Marzanna to uosobienie zimy oraz śmierci. Wyprowadzenie jej poza zabudowania wsi i spalenie lub zatopienie miało przywołać wiosnę. Obecnie to głównie zabawa dla dzieci i młodzieży. Jest to świetna okazja do wyjścia ze szkoły (przepadają lekcje!). Jest to także pretekst do wagarowania bez zgody nauczycieli, którzy zwykle traktują to z większym niż zazwyczaj pobłażaniem."
+        }
+    ]
+}
